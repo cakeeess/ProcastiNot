@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # 🧠 ProcastiNot — Your Friendly Anti-Procrastination Buddy
 
 Welcome to **ProcastiNot** — a minimalist, clean, and *slightly bossy* to-do list app that helps you stop procrastinating and start dominating 🐝💼
@@ -53,6 +53,6 @@ Made with love by
 
 Because the only thing more satisfying than crossing off a task  
 ...is doing it in style 🧾✨
-EOF
+
 
 
