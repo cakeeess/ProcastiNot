@@ -1,12 +1,58 @@
-# React + Vite
+cat > README.md << 'EOF'
+# 🧠 ProcastiNot — Your Friendly Anti-Procrastination Buddy
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **ProcastiNot** — a minimalist, clean, and *slightly bossy* to-do list app that helps you stop procrastinating and start dominating 🐝💼
 
-Currently, two official plugins are available:
+Built with:
+- ⚛️ React + Vite
+- 💨 Tailwind CSS
+- ✨ shadcn/ui
+- 💾 LocalStorage (for those who like their tasks remembered)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ Add, remove, and complete tasks
+- 📆 Track deleted tasks date-wise (so you don’t forget what you were avoiding)
+- 🌙 Dark mode ready (because we all procrastinate at night)
+- 🔥 Clean and responsive UI with shadcn components
+- 💻 Offline-friendly (like your attention span)
+
+---
+
+## 🚀 Getting Started
+
+Clone the repo:
+\`\`\`bash
+git clone https://github.com/cakeeess/ProcastiNot.git
+cd ProcastiNot
+npm install
+npm run dev
+\`\`\`
+
+> Your tasks await. No more “I’ll do it later.” 😤
+
+---
+
+## 🧁 Contributing
+
+Wanna improve ProcastiNot? Add new features? Or just vibe with code?  
+Feel free to fork + PR — we welcome your procrastinated ideas too 💅
+
+---
+
+## 💌 Shoutout
+
+Made with love by  
+[@cakeeess](https://github.com/cakeeess) ☕💻
+
+---
+
+## 🐾 Motivation
+
+Because the only thing more satisfying than crossing off a task  
+...is doing it in style 🧾✨
+EOF
+
+
